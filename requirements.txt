@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+newspaper3k
+duckduckgo_search
+playwright
+selenium
+webdriver_manager
+phidata
+lxml_html_clean
+streamlit
+firecrawl-py
+googlesearch-python
+pycountry
